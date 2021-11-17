@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* a list of favourite one
+* pen
+* book
+* laptop
+* ps3❤
