@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# kartik borkar, BE
+## Electrical Engineering
+which is your favourite subject
